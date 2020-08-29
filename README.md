@@ -1,4 +1,3 @@
-//Huzaifa Nur
 **`Simple Student/school management system`**
 
 **`Guide`**
